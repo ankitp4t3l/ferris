@@ -3,7 +3,7 @@
 	url = https://github.com/tmk/kicad_lib_tmk.git
 [submodule "keyboard_footprints"]
 	path = fp/keyboard_footprints
-	url = https://github.com/pierrechevalier83/keyboard_footprints
+	url = https://github.com/ankitp4t3l/keyboard_footprints
 [submodule "ferris_pcb_art"]
 	path = fp/ferris_pcb_art
 	url = https://github.com/pierrechevalier83/ferris_pcb_art
